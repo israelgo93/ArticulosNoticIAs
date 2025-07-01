@@ -30,7 +30,7 @@ Sistemas de calificación basados en IA utilizando modelos de PNL y ML como BERT
 
 ### Plataformas de aprendizaje adaptativo
 
-Las principales plataformas de IA se han vuelto integrales en la creación de contenido educativo. GPT-4, ahora integrado en Microsoft Copilot for Education a $30 por mes por usuario, lidera la adopción con el 89% de estudiantes usando ChatGPT para asistencia con tareas<sup>17</sup>. Claude ha emergido como la opción preferida para materiales de educación en salud debido a la alineación ética superior y medidas de seguridad<sup>18</sup>.
+Las principales plataformas de IA se han vuelto integrales en la creación de contenido educativo. GPT-4, ahora integrado en Microsoft 365 for Education a $4.99 por mes por usuario, lidera la adopción con el 89% de estudiantes usando ChatGPT para asistencia con tareas<sup>17</sup>. Claude ha emergido como la opción preferida para materiales de educación en salud debido a la alineación ética superior y medidas de seguridad<sup>18</sup>.
 
 Las plataformas de aprendizaje adaptativo como Knewton Alta, Realizeit y Carnegie Learning están entregando mejoras medibles, con algunas mostrando **mejoras del 25-30% en los resultados de aprendizaje** e instituciones reportando hasta incrementos del 12% en las tasas de graduación<sup>19</sup>. Sin embargo, persisten las preocupaciones estudiantiles, con el 48.2% expresando dudas sobre la precisión del contenido generado por IA y muchos preocupados por la sobre-dependencia reduciendo las habilidades de pensamiento crítico<sup>20</sup>. La evidencia sugiere que el 68.9% de los estudiantes muestran mayor pereza académica cuando dependen excesivamente de herramientas de IA<sup>21</sup>.
 
