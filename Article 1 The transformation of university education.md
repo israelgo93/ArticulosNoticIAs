@@ -30,7 +30,7 @@ AI-based grading systems using NLP and ML models like BERT have achieved **91.5%
 
 ### Adaptive learning platforms
 
-Major AI platforms have become integral to educational content creation. GPT-4, now integrated into Microsoft Copilot for Education at $30 per month per user, leads adoption with 89% of students using ChatGPT for homework assistance<sup>17</sup>. Claude has emerged as the preferred choice for healthcare education materials due to superior ethical alignment and safety measures<sup>18</sup>.
+Major AI platforms have become integral to educational content creation. GPT-4, now integrated into Microsoft 365 for Education at $4,99 per month per user, leads adoption with 89% of students using ChatGPT for homework assistance<sup>17</sup>. Claude has emerged as the preferred choice for healthcare education materials due to superior ethical alignment and safety measures<sup>18</sup>.
 
 Adaptive learning platforms like Knewton Alta, Realizeit, and Carnegie Learning are delivering measurable improvements, with some showing **25-30% enhancement in learning outcomes** and institutions reporting up to 12% increases in graduation rates<sup>19</sup>. However, student concerns persist, with 48.2% expressing doubts about AI-generated content accuracy and many worried about over-reliance reducing critical thinking skills<sup>20</sup>. The evidence suggests that 68.9% of students show increased academic laziness when overly dependent on AI tools<sup>21</sup>.
 
